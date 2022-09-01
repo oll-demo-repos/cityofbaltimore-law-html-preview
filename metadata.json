@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2022-09-01",
+      "codified-date": "0001-01-02",
+      "platform": {
+        "reproducible": "false",
+        "version": "2.6.0"
+      },
+      "repositories": [
+        {
+          "commit": "6d9538dc370e0b1d7d003a60546c71d00bfe3eab",
+          "name": "cityofbaltimore/law-xml"
+        },
+        {
+          "commit": "67a2af3bdc80b570e23a1e82fdb58157c54ea54c",
+          "name": "cityofbaltimore/law-xml-codified-preview"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "",
+      "html-bulk": "https://github.com/oll-demo-repos/cityofbaltimore-law-html",
+      "static-assets": "https://github.com/oll-test-repos/openlawlibrary-law-static-assets",
+      "xml-bulk": "https://github.com/oll-demo-repos/cityofbaltimore-law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2022-08-01"
+  }
+}
